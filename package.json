@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-favicon": "^2.0.1",
     "path": "^0.12.7",
     "react": "^16.8.6",
